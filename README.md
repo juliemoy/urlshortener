@@ -1,4 +1,4 @@
-# API Project: URL Shortener Microservice for freeCodeCamp
+# API Project: URL Shortener Microservice
 
 
 ### User Stories
@@ -16,6 +16,3 @@ POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.googl
 
 [this_project_url]/api/shorturl/3
 
-#### Will redirect to:
-
-https://www.freecodecamp.org/forum/
